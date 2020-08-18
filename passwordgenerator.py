@@ -1,5 +1,5 @@
 import string
-import random
+import random       #uses random function for creating random passwords for n times
 
 def gen():
     s1 = string.ascii_uppercase
